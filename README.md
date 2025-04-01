@@ -1,4 +1,4 @@
-# Bank-Management-System
+## Bank-Management-System
 
 📌 Description
 
@@ -9,19 +9,19 @@ Watch the project demo here: [Click to Watch]
 (https://drive.google.com/file/d/1cKMnoiIoD5fp9hApk2fxRtCyfdrCR9-A/view?usp=sharing)
 
 
-🚀 Features
+## 🚀 Features
 	•	Deposit Money 💰 – Securely add funds to an account.
 	•	Withdrawal 🏧 – Withdraw money safely.
 	•	Balance Enquiry 📊 – Check your current account balance.
 	•	Mini Statement 📝 – View recent transactions.
 	•	User Authentication 🔐 – Secure login with a card number and PIN.
 
- 🛠️ Technologies Used
+## 🛠️ Technologies Used
 	•	Java Swing – For the graphical user interface.
 	•	MySQL – For database management.
 	•	JCalendar – For date selection.
 
- 📂 Installation Guide
+## 📂 Installation Guide
 
 Prerequisites
 
@@ -30,7 +30,7 @@ Before running the project, ensure you have:
 ✅ IntelliJ IDEA (or any Java IDE like Eclipse/NetBeans).
 ✅ Java Development Kit (JDK 8+) installed.
 
-Database Setup
+# Database Setup
 
 1️⃣ Create Database:
 Open MySQL Workbench and run:
@@ -58,15 +58,15 @@ Running the Project
 4️⃣ Run the login.java file to launch the application.
 
 
-🎯 Future Improvements
+## 🎯 Future Improvements
 	•	Implementing Admin Panel for managing users.
 	•	Adding transaction filters (date-wise, type-wise).
 	•	Enhancing security features (OTP-based authentication).
 
- 👥 Contributing
+## 👥 Contributing
 
 Feel free to contribute to this project by suggesting improvements, reporting bugs, or adding new features.
 
-📜 License
+## 📜 License
 
 This project is for educational purposes. You are free to modify and enhance it.
